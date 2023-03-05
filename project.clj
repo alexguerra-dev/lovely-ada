@@ -1,6 +1,6 @@
 (defproject lovely-ada "0.0.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "Learning Clojure"
+  :url "https://github.com/alexguerra-dev/lovely-ada"
   :license {:name "MIT"
             :url "https://choosealicense.com/licenses/mit"}
   :dependencies [[org.clojure/clojure "1.11.1"]]
